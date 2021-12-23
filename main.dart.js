@@ -60299,7 +60299,7 @@ B:function(a,b){var s=null
 return E.ig(T.b2(H.b([M.ae(s,new U.fr(150,s),C.i,s,s,s,s,150,s,s,s,s,s),O.axa()],t.t),C.u,C.q,C.o,s),s,C.T,s,C.n)}}
 X.OR.prototype={
 B:function(a,b){var s=null,r=t.t
-return T.b2(H.b([new K.mR("Reviews - \u0622\u0631\u0627\u0621 \u0627\u0644\u0645\u062a\u062f\u0631\u0628\u064a\u0646 ",C.a_,s),T.cV(H.b([L.ac("          Discover the fastest, most effective way\n          most effective way most effective way most effective way most effective way",s,s,s,A.aD(s,s,C.k,s,s,s,s,s,s,s,s,18,s,C.F,s,s,!0,s,s,s,s,s,s,s),s,s)],r),C.u,C.q,C.o),T.aA(s,60,s),new N.tM(s),T.aA(s,60,s),new L.es("See Reviews",new X.acY(b),140,s)],r),C.u,C.q,C.o,s)}}
+return T.b2(H.b([new K.mR("Reviews - \u0622\u0631\u0627\u0621 \u0627\u0644\u0645\u062a\u062f\u0631\u0628\u064a\u0646 ",C.a_,s),T.cV(H.b([L.ac("          Discover the fastest, most effective way\n          most effective way most effective way most effective way most effective way",s,s,s,A.aD(s,s,C.k,s,s,s,s,s,s,s,s,18,s,C.F,s,s,!0,s,s,s,s,s,s,s),s,s)],r),C.u,C.q,C.o),T.aA(s,60,s),new N.tM(s),T.aA(s,60,s),new L.es("See Reviews",new X.acY(b),145,s)],r),C.u,C.q,C.o,s)}}
 X.acY.prototype={
 $0:function(){K.ajv(this.a,"/feedbackPage",t.ub)},
 $S:2}
