@@ -60305,10 +60305,10 @@ s=t.cI
 r=$.cB
 return M.kq(new X.VO(),null,(r==null?$.cB=new E.eM():r).od(0,null,s),null,s)}}
 X.VO.prototype={
-$1:function(a){var s,r=null,q="          Discover the fastest, most effective way\n          most effective way most effective way most effective way most effective way"
+$1:function(a){var s,r=null
 if(a.db.a)s=T.hy(U.aic(),r,r)
 else{s=t.t
-s=E.ig(T.bp(H.b([M.ai(r,r,C.i,C.a0,r,r,r,0.5,r,r,r,r,r),new L.DM(r),T.bp(H.b([new K.mR("Courses",C.a0,r),T.dE(H.b([L.av(q,r,r,r,A.aU(r,r,C.k,r,r,r,r,r,r,r,r,18,r,C.G,r,r,!0,r,r,r,r,r,r,r),r,r)],s),C.v,C.r,C.p),T.aG(r,10,r),D.awZ()],s),C.v,C.r,C.p,r),T.aG(r,30,r),T.bp(H.b([new K.mR("Reviews - \u0622\u0631\u0627\u0621 \u0627\u0644\u0645\u062a\u062f\u0631\u0628\u064a\u0646 ",C.a0,r),T.dE(H.b([L.av(q,r,r,r,A.aU(r,r,C.k,r,r,r,r,r,r,r,r,18,r,C.G,r,r,!0,r,r,r,r,r,r,r),r,r)],s),C.v,C.r,C.p),T.aG(r,60,r),new N.tL(r),T.aG(r,60,r)],s),C.v,C.r,C.p,r),T.aG(r,50,r),N.agX()],s),C.v,C.r,C.p,r),r,C.S,r,C.n)}return s},
+s=E.ig(T.bp(H.b([M.ai(r,r,C.i,C.a0,r,r,r,0.5,r,r,r,r,r),new L.DM(r),T.bp(H.b([new K.mR("Courses",C.a0,r),T.dE(H.b([L.av("          We deliver a customizable learning\n          solution to meet your business goals.",r,r,r,A.aU(r,r,C.k,r,r,r,r,r,r,r,r,18,r,C.G,r,r,!0,r,r,r,r,r,r,r),r,r)],s),C.v,C.r,C.p),T.aG(r,10,r),D.awZ()],s),C.v,C.r,C.p,r),T.aG(r,30,r),T.bp(H.b([new K.mR("Reviews - \u0622\u0631\u0627\u0621 \u0627\u0644\u0645\u062a\u062f\u0631\u0628\u064a\u0646 ",C.a0,r),T.dE(H.b([L.av("          Discover the fastest, most effective way\n          most effective way most effective way most effective way most effective way",r,r,r,A.aU(r,r,C.k,r,r,r,r,r,r,r,r,18,r,C.G,r,r,!0,r,r,r,r,r,r,r),r,r)],s),C.v,C.r,C.p),T.aG(r,60,r),new N.tL(r),T.aG(r,60,r)],s),C.v,C.r,C.p,r),T.aG(r,50,r),N.agX()],s),C.v,C.r,C.p,r),r,C.S,r,C.n)}return s},
 $S:108}
 Q.kC.prototype={
 a7:function(){return new Q.Kz(C.l)}}
